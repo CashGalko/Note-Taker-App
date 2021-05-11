@@ -9,7 +9,7 @@ This app allows the user to take simple notes & save them for use in the future
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation Instructions
- This app is deployed to heroku and does not need to be installed
+ This app is deployed to heroku [here](https://note-taker-hw3.herokuapp.com/).
  ## Usage
 Currently there is no functionality to delete any of your previous notes
 ## License
